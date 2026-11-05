@@ -2,8 +2,16 @@
   "family": "Bosch MEVD17",
   "slug": "bosch-mevd17",
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "official_url": "https://www.davincideluxe.fr/bosch-mevd17-tuning-software",
-  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "official_urls": [
+    "https://www.davincideluxe.fr/bosch-mevd17-tuning-software",
+    "https://www.davincideluxe.org/bosch-mevd17-tuning-software",
+    "https://www.davincideluxe.app/bosch-mevd17-tuning-software",
+    "https://www.davincideluxe.software/bosch-mevd17-tuning-software",
+    "https://www.davincideluxe.es/bosch-mevd17-tuning-software",
+    "https://www.davincideluxe.de/bosch-mevd17-tuning-software",
+    "https://www.davincideluxe.it/bosch-mevd17-tuning-software",
+    "https://www.aesoftech.eu/bosch-mevd17-tuning-software"
+  ],
   "matched_variants_count": 103,
   "brands": {
     "BMW": [
