@@ -1,0 +1,167 @@
+{
+  "family": "Bosch MEVD17",
+  "slug": "bosch-mevd17",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_url": "https://www.davincideluxe.fr/bosch-mevd17-tuning-software",
+  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "matched_variants_count": 103,
+  "brands": {
+    "BMW": [
+      "MEV17.2",
+      "MEV17.2.2",
+      "MEV17.4",
+      "MEV17.4.6",
+      "MEVD17.2",
+      "MEVD17.2.1",
+      "MEVD17.2.2",
+      "MEVD17.2.3",
+      "MEVD17.2.4",
+      "MEVD17.2.5",
+      "MEVD17.2.6",
+      "MEVD17.2.8",
+      "MEVD17.2.84",
+      "MEVD17.2.9",
+      "MEVD17.2.95",
+      "MEVD17.2.97",
+      "MEVD17.2.98",
+      "MEVD17.2.G",
+      "MEVD17.2.H",
+      "MEVD17.2.P",
+      "MEVD17.2.S",
+      "MEVD17.2.U",
+      "MEVD17.2.Z",
+      "MEVD17.4.6",
+      "MEVD17.8.4",
+      "MEVD172X"
+    ],
+    "MINI": [
+      "MED172_MEV172",
+      "MED17X-MEV17X",
+      "MEV17",
+      "MEV17.2",
+      "MEV17.2.2",
+      "MEV17.4",
+      "MEV17.4.6",
+      "MEVD17.2",
+      "MEVD17.2.2",
+      "MEVD17.2.3",
+      "MEVD17.2.4",
+      "MEVD17.2.5",
+      "MEVD17.2.6",
+      "MEVD17.2.8",
+      "MEVD17.2.84",
+      "MEVD17.2.9",
+      "MEVD17.2.95",
+      "MEVD17.2.97",
+      "MEVD17.2.98",
+      "MEVD17.2.G",
+      "MEVD17.2.H",
+      "MEVD17.2.P",
+      "MEVD17.2.U",
+      "MEVD17.8.4",
+      "MEVD172X"
+    ],
+    "FIAT": [
+      "MEVD17.2",
+      "MEVD17.2.5"
+    ],
+    "ALFA ROMEO": [
+      "MEVD17.2",
+      "MEVD17.2.5"
+    ],
+    "LANCIA": [
+      "MEVD17.2",
+      "MEVD17.2.5"
+    ],
+    "JEEP": [
+      "MEVD17.2",
+      "MEVD17.2.5"
+    ],
+    "ABARTH": [
+      "MEVD17.2",
+      "MEVD17.2.5"
+    ],
+    "CHRYSLER": [
+      "MEVD17.2",
+      "MEVD17.2.5"
+    ],
+    "RAM": [
+      "MEVD17.2",
+      "MEVD17.2.5"
+    ],
+    "FORD": [
+      "MEVD17.2"
+    ],
+    "MERCEDES-BENZ": [
+      "MEV17.2.2",
+      "MEVD17.7.2"
+    ],
+    "SMART": [
+      "MEV17.2.2",
+      "MEVD17.7.2"
+    ],
+    "MAYBACH": [
+      "MEV17.2.2",
+      "MEVD17.7.2"
+    ],
+    "PEUGEOT": [
+      "MEV17",
+      "MEV17.4",
+      "MEV17.4.2",
+      "MEVD17.2.2",
+      "MEVD17.4.2",
+      "MEVD17.4.4"
+    ],
+    "CITROËN": [
+      "MED174_MEV174",
+      "MEV17",
+      "MEV17.4",
+      "MEV17.4.2",
+      "MEVD17.2.2",
+      "MEVD17.4",
+      "MEVD17.4.2",
+      "MEVD17.4.4"
+    ],
+    "DS": [
+      "MEV17",
+      "MEV17.4",
+      "MEV17.4.2",
+      "MEVD17.2.2",
+      "MEVD17.4.2",
+      "MEVD17.4.4"
+    ],
+    "INFINITI": [
+      "MEVD17.7.2"
+    ],
+    "VOLKSWAGEN": [
+      "MEVD17.2"
+    ],
+    "AUDI": [
+      "MEVD17.2"
+    ],
+    "SEAT": [
+      "MEVD17.2"
+    ],
+    "SKODA": [
+      "MEVD17.2"
+    ],
+    "CUPRA": [
+      "MEVD17.2"
+    ],
+    "PORSCHE": [
+      "MEVD17.2"
+    ],
+    "LAMBORGHINI": [
+      "MEVD17.2"
+    ],
+    "BENTLEY": [
+      "MEVD17.2"
+    ],
+    "FERRARI": [
+      "MEVD17.2"
+    ],
+    "ALPINA": [
+      "MEVD172X"
+    ]
+  }
+}
