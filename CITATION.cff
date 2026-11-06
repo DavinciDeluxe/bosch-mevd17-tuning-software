@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Bosch MEVD17 ECU Calibration Software — BMW & MINI Valvetronic direct-injection turbo ECU (MEVD17.2.4/9/G N20, N55, S55, S63) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/bosch-mevd17-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/bosch-mevd17-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
