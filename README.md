@@ -1,10 +1,10 @@
-# Bosch MEVD17 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Bosch MEVD17 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Bosch%20MEVD17-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/bosch-mevd17-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/bosch-mevd17-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/bosch-mevd17-tuning-software)
 
-**Bosch MEVD17** is BMW & Mini Valvetronic direct-injection turbo petrol ECU family (N13, N20, N55, S55, S63). **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch MEVD17 readouts**.
+**Bosch MEVD17** is BMW & Mini Valvetronic direct-injection turbo petrol ECU family (N13, N20, N55, S55, S63). **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch MEVD17 readouts**.
 
 ## 📊 Live Bosch MEVD17 Variants Covered Across Brands
 
