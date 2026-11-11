@@ -11,7 +11,7 @@
 | Brand | Bosch MEVD17 Variants | Supported ECU Identifiers |
 | :--- | :---: | :--- |
 | **BMW** | 26 | `MEV17.2`, `MEV17.2.2`, `MEV17.4`, `MEV17.4.6`, `MEVD17.2`, `MEVD17.2.1`, `MEVD17.2.2`, `MEVD17.2.3` … |
-| **MINI** | 25 | `MED172_MEV172`, `MED17X-MEV17X`, `MEV17`, `MEV17.2`, `MEV17.2.2`, `MEV17.4`, `MEV17.4.6`, `MEVD17.2` … |
+| **MINI** | 26 | `MED172_MEV172`, `MED17X-MEV17X`, `MEV17`, `MEV17.2`, `MEV17.2.2`, `MEV17.4`, `MEV17.4.6`, `MEVD17.2` … |
 | **CITROËN** | 8 | `MED174_MEV174`, `MEV17`, `MEV17.4`, `MEV17.4.2`, `MEVD17.2.2`, `MEVD17.4`, `MEVD17.4.2`, `MEVD17.4.4` |
 | **PEUGEOT** | 6 | `MEV17`, `MEV17.4`, `MEV17.4.2`, `MEVD17.2.2`, `MEVD17.4.2`, `MEVD17.4.4` |
 | **DS** | 6 | `MEV17`, `MEV17.4`, `MEV17.4.2`, `MEVD17.2.2`, `MEVD17.4.2`, `MEVD17.4.4` |
