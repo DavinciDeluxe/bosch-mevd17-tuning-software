@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-mevd17-tuning-software",
     "https://www.aesoftech.eu/bosch-mevd17-tuning-software"
   ],
-  "matched_variants_count": 104,
+  "matched_variants_count": 103,
   "brands": {
     "BMW": [
       "MEV17.2",
@@ -43,10 +43,9 @@
       "MEVD172X"
     ],
     "MINI": [
-      "MED172_MEV172",
+      "MED172-MEV172",
       "MED17X-MEV17X",
       "MEV17",
-      "MEV17.2",
       "MEV17.2.2",
       "MEV17.4",
       "MEV17.4.6",
@@ -122,7 +121,7 @@
       "MEVD17.4.4"
     ],
     "CITROËN": [
-      "MED174_MEV174",
+      "MED174MEV174",
       "MEV17",
       "MEV17.4",
       "MEV17.4.2",
