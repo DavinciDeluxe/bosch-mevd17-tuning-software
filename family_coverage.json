@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-mevd17-tuning-software",
     "https://www.aesoftech.eu/bosch-mevd17-tuning-software"
   ],
-  "matched_variants_count": 104,
+  "matched_variants_count": 102,
   "brands": {
     "BMW": [
       "MEV17.2",
@@ -91,10 +91,6 @@
       "MEVD17.2.5"
     ],
     "CHRYSLER": [
-      "MEVD17.2",
-      "MEVD17.2.5"
-    ],
-    "RAM": [
       "MEVD17.2",
       "MEVD17.2.5"
     ],
