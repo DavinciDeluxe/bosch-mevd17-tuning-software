@@ -21,7 +21,6 @@
 | **JEEP** | 2 | `MEVD17.2`, `MEVD17.2.5` |
 | **ABARTH** | 2 | `MEVD17.2`, `MEVD17.2.5` |
 | **CHRYSLER** | 2 | `MEVD17.2`, `MEVD17.2.5` |
-| **RAM** | 2 | `MEVD17.2`, `MEVD17.2.5` |
 | **MERCEDES-BENZ** | 2 | `MEV17.2.2`, `MEVD17.7.2` |
 | **SMART** | 2 | `MEV17.2.2`, `MEVD17.7.2` |
 | **MAYBACH** | 2 | `MEV17.2.2`, `MEVD17.7.2` |
